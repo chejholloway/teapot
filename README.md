@@ -1,4 +1,4 @@
-# Kettle Web Development Challenge
+# Teapot Web Development Challenge
 
 😄Thanks for having a look at our Web Development Challenge.
 
